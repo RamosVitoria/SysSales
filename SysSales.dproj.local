@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/04/15 10:49:33.000.048,=C:\JuceMito\Projetos\Delphi\Unit1.pas</Transaction>
+    <Transaction>2024/04/15 10:51:00.000.706,=C:\JuceMito\Projetos\Delphi\Unit2.pas</Transaction>
+    <Transaction>2024/04/15 13:05:22.000.647,C:\SysSales354\uModulo.pas=C:\JuceMito\Projetos\Delphi\Unit2.pas</Transaction>
+    <Transaction>2024/04/15 13:05:22.000.647,C:\SysSales354\uModulo.dfm=C:\JuceMito\Projetos\Delphi\Unit2.dfm</Transaction>
+    <Transaction>2024/04/15 13:05:46.000.336,C:\SysSales354\uSplash.fmx=C:\JuceMito\Projetos\Delphi\Unit1.fmx</Transaction>
+    <Transaction>2024/04/15 13:05:46.000.336,C:\SysSales354\uSplash.pas=C:\JuceMito\Projetos\Delphi\Unit1.pas</Transaction>
+    <Transaction>2024/04/15 13:06:37.000.751,C:\SysSales354\SysSales.dproj=C:\JuceMito\Projetos\Delphi\Project1.dproj</Transaction>
+    <Transaction>2024/04/15 13:06:46.000.542,=C:\SysSales354\Unit1.pas</Transaction>
+    <Transaction>2024/04/15 13:06:52.000.476,=C:\SysSales354\Unit2.pas</Transaction>
+    <Transaction>2024/04/15 13:07:10.000.380,C:\SysSales354\uLogin.pas=C:\SysSales354\Unit1.pas</Transaction>
+    <Transaction>2024/04/15 13:07:10.000.380,C:\SysSales354\uLogin.fmx=C:\SysSales354\Unit1.fmx</Transaction>
+    <Transaction>2024/04/15 13:07:21.000.276,C:\SysSales354\uPrincipal.pas=C:\SysSales354\Unit2.pas</Transaction>
+    <Transaction>2024/04/15 13:07:21.000.276,C:\SysSales354\uPrincipal.fmx=C:\SysSales354\Unit2.fmx</Transaction>
+    <Transaction>2024/05/13 10:24:53.000.126,=C:\JuceMito\Projetos\SysSales\SysSales354\Unit1.pas</Transaction>
+    <Transaction>2024/05/13 10:24:59.000.120,=C:\JuceMito\Projetos\SysSales\SysSales354\Unit2.pas</Transaction>
+    <Transaction>2024/05/13 10:25:07.000.639,=C:\JuceMito\Projetos\SysSales\SysSales354\Unit3.pas</Transaction>
+    <Transaction>2024/05/13 10:25:15.000.965,=C:\JuceMito\Projetos\SysSales\SysSales354\Unit4.pas</Transaction>
+    <Transaction>2024/05/13 10:27:48.000.673,C:\JuceMito\Projetos\SysSales\SysSales354\uCadUsuarios.pas=C:\JuceMito\Projetos\SysSales\SysSales354\Unit4.pas</Transaction>
+    <Transaction>2024/05/13 10:27:48.000.673,C:\JuceMito\Projetos\SysSales\SysSales354\uCadUsuarios.fmx=C:\JuceMito\Projetos\SysSales\SysSales354\Unit4.fmx</Transaction>
+    <Transaction>2024/05/13 10:28:06.000.461,C:\JuceMito\Projetos\SysSales\SysSales354\uCadFornecedores.pas=C:\JuceMito\Projetos\SysSales\SysSales354\Unit3.pas</Transaction>
+    <Transaction>2024/05/13 10:28:06.000.461,C:\JuceMito\Projetos\SysSales\SysSales354\uCadFornecedores.fmx=C:\JuceMito\Projetos\SysSales\SysSales354\Unit3.fmx</Transaction>
+    <Transaction>2024/05/13 10:28:19.000.756,C:\JuceMito\Projetos\SysSales\SysSales354\uCadClientes.fmx=C:\JuceMito\Projetos\SysSales\SysSales354\Unit2.fmx</Transaction>
+    <Transaction>2024/05/13 10:28:19.000.756,C:\JuceMito\Projetos\SysSales\SysSales354\uCadClientes.pas=C:\JuceMito\Projetos\SysSales\SysSales354\Unit2.pas</Transaction>
+    <Transaction>2024/05/13 10:28:31.000.996,C:\JuceMito\Projetos\SysSales\SysSales354\uCadProdutos.pas=C:\JuceMito\Projetos\SysSales\SysSales354\Unit1.pas</Transaction>
+    <Transaction>2024/05/13 10:28:31.000.996,C:\JuceMito\Projetos\SysSales\SysSales354\uCadProdutos.fmx=C:\JuceMito\Projetos\SysSales\SysSales354\Unit1.fmx</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="uLogin.pas"/>
+    <File Path="uLogin.fmx"/>
+    <File Path="uModulo.pas"/>
+    <File Path="uModulo.dfm"/>
+    <File Path="uCadProdutos.pas"/>
+    <File Path="uCadProdutos.fmx"/>
+    <File Path="uCadClientes.pas"/>
+    <File Path="uCadClientes.fmx"/>
+    <File Path="uCadFornecedores.pas"/>
+    <File Path="uCadFornecedores.fmx"/>
+    <File Path="uCadUsuarios.pas"/>
+    <File Path="uCadUsuarios.fmx"/>
+    <File Path="uPrincipal.pas"/>
+    <File Path="uPrincipal.fmx"/>
+    <File Path="uSplash.pas"/>
+    <File Path="uSplash.fmx"/>
+  </ProjectSortOrder>
+</BorlandProject>
